@@ -8,7 +8,7 @@ const App = () =>{
 const Black = "black";
     const bgChange = ()=> {
       
-      let newbg = "green";
+      let newbg = "white";
       setBg(newbg);
       setName('oyy 🐺');
     };
